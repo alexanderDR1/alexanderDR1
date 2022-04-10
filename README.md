@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @alexanderDR1
-- 👀 I’m interested in devops job
-- 🌱 I’m currently learning devops
-- 📫 reach me savi5757@gmail.com 
+👋 Hi, I’m @alexanderDR1
+
+- 👀 I’m interested in the field of DevOps, software automation, and delivering quality and well-tested source code.
+- 🌱 I’m currently spending time learning and pracitcing DevOps technologies and practices.
+- 📫 reach me at savi5757@gmail.com 
